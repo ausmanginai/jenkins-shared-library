@@ -8,4 +8,4 @@ def call() {
         sh 'docker push ausman96/ausmandev:jma1.0'
 
 
-    }
+}
